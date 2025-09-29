@@ -1,4 +1,4 @@
-Here’s a clean and professional GitHub README-style writeup for your crop recommendation project. You can copy this into your `README.md` file and tweak it further if needed:
+
 
 ---
 
